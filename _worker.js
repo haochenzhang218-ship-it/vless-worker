@@ -1,4 +1,3 @@
-import { connect } from 'cloudflare:sockets';
 
 const userID = '43ecf616-3672-4d91-af8d-a3035143b293';
 const proxyIPs = ['cdn.cloudflare.net'];
